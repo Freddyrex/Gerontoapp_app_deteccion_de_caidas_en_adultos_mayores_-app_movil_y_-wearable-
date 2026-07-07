@@ -240,41 +240,59 @@ Detecta cambios de red:
 
 ### En el Smartphone
 
-#### Pantalla 1: Dashboard Principal
-[ESPACIO PARA CAPTURA - imagenes/pantalla_1_dashboard.png]
+#### Pantalla 1: Inicio de Sesión
+![Inicio de Sesión](imagenes/pantallamovil_0.jpeg)
+Inicio de Sesión. Acceso al sistema y configuración de perfil de usuario.
 
-Muestra:
-- Estado del monitoreo de caídas
-- Botón SOS prominente
-- Próximos medicamentos
-- Historial reciente
-- Estado de sincronización
+#### Pantalla 2: Registro
+![Registro](imagenes/pantallamovil_7.jpeg)
+Registro. Acceso al sistema y configuración de perfil de usuario.
 
-#### Pantalla 2: Historial de Eventos
-[ESPACIO PARA CAPTURA - imagenes/pantalla_2_historial.png]
+#### Pantalla 3: Perfil del Paciente
+![Perfil del Paciente](imagenes/pantallamovil_6.jpeg)
+Perfil del Paciente. Acceso al sistema y configuración de perfil de usuario.
 
-Contiene:
-- Lista de caídas detectadas
-- Fecha, hora y estado de cada evento
-- Filtros por tipo
-- Detalles del evento
+#### Pantalla 4: Panel Principal
+![Panel Principal](imagenes/pantallamovil_2.jpeg)
+Panel Principal. Panel de control y gestión de historial preventivo.
 
-#### Pantalla 3: Gestión de Medicamentos
-[ESPACIO PARA CAPTURA - imagenes/pantalla_3_medicamentos.png]
+#### Pantalla 5: Configuración de Alertas
+![Configuración de Alertas](imagenes/pantallamovil_3.jpeg)
+Configuración de Alertas. Panel de control y gestión de historial preventivo.
 
-Funcionalidades:
-- Agregar nuevos medicamentos
-- Editar medicinas existentes
-- Ver historial de toma
-- Recordatorios programados
+#### Pantalla 6: Historial Médico
+![Historial Médico](imagenes/pantallamovil_4.jpeg)
+Historial Médico. Panel de control y gestión de historial preventivo.
+
+#### Pantalla 7: Lista de Contactos
+![Lista de Contactos](imagenes/pantallamovil_5.jpeg)
+Lista de Contactos. Gestión de red de apoyo, registro de nuevos usuarios y sincronización del wearable.
+
+#### Pantalla 8: Registro de Usuario
+![Registro de Usuario](imagenes/pantallamovil_1.jpeg)
+Registro de Usuario. Gestión de red de apoyo, registro de nuevos usuarios y sincronización del wearable.
+
+#### Pantalla 9: Sincronización de Reloj
+![Sincronización de Reloj](imagenes/pantallamovil_8.jpeg)
+Sincronización de Reloj. Gestión de red de apoyo, registro de nuevos usuarios y sincronización del wearable.
 
 ### En el Reloj Inteligente
 
-- Pantalla principal comprimida
-- Alerta de caída detectada
-- Confirmación/cancelación rápida
-- Próximas medicinas
-- Complicación en esfera del reloj
+#### Pantalla 10: Reloj - Pantalla de Sincronización
+![Pantalla de Sincronización Wear OS](imagenes/reloj_pantalla0.png)
+Pantalla de sincronización. Interfaz de usuario optimizada para Smartwatch con Wear OS.
+
+#### Pantalla 11: Reloj - Pantalla Inicio, Alerta de Ayuda
+![Pantalla Inicio Alerta de Ayuda](imagenes/reloj_pantalla1.png)
+Pantalla Inicio, Alerta de ayuda. Interfaz de usuario optimizada para Smartwatch con Wear OS.
+
+#### Pantalla 12: Reloj - Medicamentos
+![Medicamentos Wear OS](imagenes/reloj_pantalla2.png)
+Medicamentos. Interfaz de usuario optimizada para Smartwatch con Wear OS.
+
+#### Pantalla 13: Reloj - Historial de Caída
+![Historial de Caída](imagenes/reloj_pantalla3.png)
+Historial de caída. Registro de eventos y alertas generadas.
 
 ## 🚀 Instalación y Uso
 
