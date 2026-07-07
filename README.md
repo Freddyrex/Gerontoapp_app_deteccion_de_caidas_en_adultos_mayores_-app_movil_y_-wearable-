@@ -1,0 +1,2 @@
+# Gerontoapp_app_deteccion_de_caidas_en_adultos_mayores_-app_movil_y_-wearable-
+si
