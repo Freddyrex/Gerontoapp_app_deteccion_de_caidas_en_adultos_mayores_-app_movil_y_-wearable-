@@ -245,7 +245,7 @@ Detecta cambios de red:
 Inicio de Sesión. Acceso al sistema y configuración de perfil de usuario.
 
 #### Pantalla 2: Registro
-![Registro](imagenes/pantallamovil_7.jpeg)
+![Registro](imagenes/pantallamocil_7.jpeg)
 Registro. Acceso al sistema y configuración de perfil de usuario.
 
 #### Pantalla 3: Perfil del Paciente
