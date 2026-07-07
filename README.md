@@ -1,4 +1,4 @@
-# Gerontoapp_app_deteccion_de_caidas_en_adultos_mayores_-app_movil_y_-wearable-
+# Gerontoapp (sistema de deteccion de caidas en adultos mayores)
 
 Sistema inteligente de detección automática de caídas con sincronización en tiempo real entre dispositivo móvil y reloj inteligente.
 
