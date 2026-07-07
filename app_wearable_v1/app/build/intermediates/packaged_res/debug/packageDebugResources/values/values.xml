@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adjuntar_imagen">Adjuntar imagen</string>
+    <string name="alerta_enviada">Alerta enviada al teléfono</string>
+    <string name="alerta_medicamento">💊 Medicamento</string>
+    <string name="app_name">SIAG Reloj</string>
+    <string name="caida_detectada">⚠ CAÍDA DETECTADA</string>
+    <string name="cancelado">Cancelar</string>
+    <string name="complication_label">SIAG complication</string>
+    <string name="default_web_client_id" translatable="false">718471077957-8lvjbtc0o3cn25edh78d1d7e4hmk6mqg.apps.googleusercontent.com</string>
+    <string name="estoy_bien">Estoy bien</string>
+    <string name="firebase_database_url" translatable="false">https://gerento-74200-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">718471077957</string>
+    <string name="google_api_key" translatable="false">AIzaSyC_-LoaQArztV_WVXwn4WMPNNld51YXKCM</string>
+    <string name="google_app_id" translatable="false">1:718471077957:android:7f5fcdd54af6d92ebf432c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC_-LoaQArztV_WVXwn4WMPNNld51YXKCM</string>
+    <string name="google_storage_bucket" translatable="false">gerento-74200.firebasestorage.app</string>
+    <string name="gyroscope_not_available">Acelerómetro no disponible</string>
+    <string name="gyroscope_title">Acelerómetro</string>
+    <string name="imagen_seleccionada">Imagen seleccionada</string>
+    <string name="project_id" translatable="false">gerento-74200</string>
+    <string name="tile_label">SIAG tile</string>
+    <string name="tomado">✓ Tomado</string>
+    <string name="volver">Volver</string>
+    <style name="MainActivityTheme.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@android:color/black</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_icon</item>
+        <item name="postSplashScreenTheme">@android:style/Theme.DeviceDefault</item>
+    </style>
+</resources>

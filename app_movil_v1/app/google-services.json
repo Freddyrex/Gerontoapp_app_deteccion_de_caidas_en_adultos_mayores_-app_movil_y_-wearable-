@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718471077957",
+    "firebase_url": "https://gerento-74200-default-rtdb.firebaseio.com",
+    "project_id": "gerento-74200",
+    "storage_bucket": "gerento-74200.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718471077957:android:7f5fcdd54af6d92ebf432c",
+        "android_client_info": {
+          "package_name": "com.example.app_movile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718471077957-n0g7hpm61k863urqskm35vhvmtk13irn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_movile",
+            "certificate_hash": "6f877cc6a41dfb595a7218febdfc6e118d05bb28"
+          }
+        },
+        {
+          "client_id": "718471077957-8lvjbtc0o3cn25edh78d1d7e4hmk6mqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_-LoaQArztV_WVXwn4WMPNNld51YXKCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718471077957-8lvjbtc0o3cn25edh78d1d7e4hmk6mqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

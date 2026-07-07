@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="confirmation_overlay_text_inset_margin" type="fraction">7.28%</item>
+    <string name="hello_world">From the Round world,\nHello, %1$s!</string>
+</resources>

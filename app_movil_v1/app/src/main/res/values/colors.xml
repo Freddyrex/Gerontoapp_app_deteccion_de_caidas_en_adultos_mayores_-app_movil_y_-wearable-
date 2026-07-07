@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ══ Fondo ══ -->
+    <color name="background_light">#F4F6FB</color>
+    <color name="toolbar_light">#C8C8C8</color>
+    <color name="toolbar_dark">#0D0E14</color>
+    <color name="card_white">#FFFFFF</color>
+
+    <!-- ══ Textos ══ -->
+    <color name="text_primary">#0D0E14</color>
+    <color name="text_secondary">#636880</color>
+    <color name="text_on_dark">#FFFFFF</color>
+
+    <!-- ══ Acento principal ══ -->
+    <color name="accent_black">#0D0E14</color>
+    <color name="accent_cyan">#00C2FF</color>
+    <color name="cyan_accent">#00C2FF</color>
+    <color name="accent_violet">#7B2FFF</color>
+
+    <!-- ══ Estado / Severidad ══ -->
+    <color name="color_grave">#E53935</color>
+    <color name="color_media">#FB8C00</color>
+    <color name="color_leve">#43A047</color>
+    <color name="logout_red">#E53935</color>
+
+    <!-- ══ Niveles de cuidado ══ -->
+    <color name="nivel_1">#00C2FF</color>
+    <color name="nivel_2">#FB8C00</color>
+    <color name="nivel_3">#E53935</color>
+
+    <!-- ══ Superficies ══ -->
+    <color name="divider_gray">#E0E3ED</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="bottom_bar_bg">#C8C8C8</color>
+    <color name="setup_bg_start">#0D0E14</color>
+    <color name="setup_bg_end">#1A1F35</color>
+
+    <!-- ══ Botones ══ -->
+    <color name="button_bg_primary">#0D0E14</color>
+    <color name="button_bg_accent">#00C2FF</color>
+    <color name="button_text_primary">#FFFFFFFF</color>
+
+    <!-- ══ Compatibilidad ══ -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

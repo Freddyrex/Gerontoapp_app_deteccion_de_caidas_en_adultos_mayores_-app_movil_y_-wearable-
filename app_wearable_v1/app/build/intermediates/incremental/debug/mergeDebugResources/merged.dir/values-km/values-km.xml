@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals formatted="false" msgid="3878057769320887026" name="time_difference_short_days">
+      <item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g>ថ</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_DAYS_0">%d</ns1:g>ថ</item>
+    </plurals>
+    <plurals formatted="false" msgid="6016687406802669982" name="time_difference_short_hours">
+      <item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g>ម៉</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_HOURS_0">%d</ns1:g>ម៉</item>
+    </plurals>
+    <plurals formatted="false" msgid="6752732458902810711" name="time_difference_short_minutes">
+      <item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g>ន</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_0">%d</ns1:g>ន</item>
+    </plurals>
+    <plurals formatted="false" msgid="5109682345086392533" name="time_difference_words_days">
+      <item quantity="other"><ns1:g id="NUMBER_OF_DAYS_1">%d</ns1:g> ថ្ងៃ</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_DAYS_0">%d</ns1:g> ថ្ងៃ</item>
+    </plurals>
+    <plurals formatted="false" msgid="3172220157267000186" name="time_difference_words_hours">
+      <item quantity="other"><ns1:g id="NUMBER_OF_HOURS_1">%d</ns1:g> ម៉ោង</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_HOURS_0">%d</ns1:g> ម៉ោង</item>
+    </plurals>
+    <plurals formatted="false" msgid="529404827937478243" name="time_difference_words_minutes">
+      <item quantity="other"><ns1:g id="NUMBER_OF_MINUTES_1">%d</ns1:g> ន</item>
+      <item quantity="one"><ns1:g id="NUMBER_OF_MINUTES_0">%d</ns1:g> ន</item>
+    </plurals>
+    <string msgid="7852919842618918232" name="a11y_no_data">"គ្មាន​ទិន្នន័យទេ"</string>
+    <string msgid="5096448958769268379" name="a11y_no_permission">"គ្មានការអនុញ្ញាតឱ្យចូលប្រើទិន្នន័យទេ"</string>
+    <string msgid="6767297740293592275" name="a11y_template_range">"<ns1:g id="VALUE">%1$f</ns1:g> នៃ <ns1:g id="MAX">%2$f</ns1:g>"</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"​ទៅទំព័រដើម"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"រំកិលឡើងលើ"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"ជម្រើសច្រើនទៀត"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"រួចរាល់"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"មើលទាំងអស់"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"ជ្រើសរើស​កម្មវិធី​​"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"បិទ"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"បើក"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"លុប"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"ស្វែងរក…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"សម្អាត​សំណួរ"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"ស្វែងរកសំណួរ​"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ស្វែងរក"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ដាក់បញ្ជូន​សំណួរ"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ស្វែងរក​តាម​សំឡេង"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ចែករំលែក​ជា​មួយ"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"ចែក​រំលែក​ជា​មួយ <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"បង្រួម"</string>
+    <string msgid="8397015543330865059" name="android.credentials.TYPE_PASSWORD_CREDENTIAL">"ពាក្យសម្ងាត់"</string>
+    <string msgid="3929015085059320822" name="androidx.credentials.TYPE_PUBLIC_KEY_CREDENTIAL">"កូដសម្ងាត់"</string>
+    <string msgid="389117264260014992" name="autofill">"បំពេញ​ស្វ័យ​ប្រវត្តិ"</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"ឆ្លើយ"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"វីដេអូ"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"បដិសេធ"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"ដាក់​ចុះ"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"ការ​ហៅ​ចូល"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"ការ​ហៅដែលកំពុងដំណើរការ"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"កំពុងពិនិត្យការ​ហៅ​ចូល"</string>
+    <string msgid="406453423630273620" name="close_drawer">"បិទម៉ឺនុយរុករក"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"បិទសន្លឹក"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">បើក</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកបើកសេវាកម្ម Google Play។</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">បើកសេវាកម្ម Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">ដំឡើង</string>
+    <string name="common_google_play_services_install_text">%1$s នឹងមិនដំណើរការទេ ប្រសិនបើមិនមានសេវាកម្មនានារបស់ Google Play ដែលបានបាត់ពីឧបករណ៍របស់អ្នក។</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">ទាញយកសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">លទ្ធភាព​ប្រើប្រាស់សេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_notification_ticker">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+    <string name="common_google_play_services_unknown_issue">%1$s កំពុងមានបញ្ហាជាមួយសេវាកម្មរបស់ Google Play ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="common_google_play_services_unsupported_text">%1$s នឹងមិនដំណើរការដោយគ្មានសេវាកម្មរបស់ Google Play ដែលឧបករណ៍របស់អ្នកមិនគាំទ្រនោះទេ។</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">ធ្វើបច្ចុប្បន្នភាព</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកធ្វើបច្ចុប្បន្នភាពសេវាកម្ម Google Play។</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">អាប់ដេតសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s នឹងមិនដំណើរការទេ បើមិនមានសេវាកម្ម Google Play ដោយសារតែវាកំពុងអាប់ដេត។</string>
+    <string name="common_google_play_services_wear_update_text">តម្រូវឲ្យមានកំណែថ្មីនៃសេវាកម្ម Google Play។ វានឹងអាប់ដេតដោយខ្លួនវានៅពេលបន្តិចទៀតនេះ។</string>
+    <string name="common_open_on_phone">បើកតាមទូរស័ព្ទ</string>
+    <string name="common_signin_button_text">ចូល</string>
+    <string name="common_signin_button_text_long">ចូលដោយប្រើ Google</string>
+    <string msgid="6412144553299494336" name="confirmation_overlay_a11y_description_fail">"បរាជ័យ"</string>
+    <string msgid="8809042819843332546" name="confirmation_overlay_a11y_description_phone">"បានបើក​នៅលើ​ទូរសព្ទ​របស់អ្នក"</string>
+    <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"ជោគជ័យ"</string>
+    <string msgid="3209159573327985035" name="copy">"ចម្លង"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"បាន​ចម្លង​តំណ​ទៅឃ្លីបបត"</string>
+    <string msgid="8038256446254964252" name="default_error_message">"ការបញ្ចូល​មិនត្រឹមត្រូវ"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"វិនដូ​លោតឡើង"</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"ម៉ឺនុយធ្លាក់ចុះ"</string>
+    <string msgid="1234962710353108940" name="expand_button_title">"កម្រិតខ្ពស់"</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"ចម្លង​តំណ"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"បើក​នៅក្នុង​កម្មវិធី​រុករកតាម​អ៊ីនធឺណិត"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"តំណចែករំលែក"</string>
+    <string msgid="6827826412747255547" name="in_progress">"កំពុងដំណើរការ"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"បានធីកខ្លះ"</string>
+    <string msgid="542007171693138492" name="navigation_menu">"ម៉ឺនុយរុករក"</string>
+    <string msgid="6610465462668679431" name="not_selected">"មិនបាន​ជ្រើសរើស"</string>
+    <string msgid="478774118347071097" name="not_set">"មិនបានកំណត់"</string>
+    <string msgid="7961817945132860002" name="preference_copied">"\"<ns1:g id="SUMMARY">%1$s</ns1:g>\" បានចម្លងទៅ​ឃ្លីបបត។"</string>
+    <string msgid="5941395253238309765" name="range_end">"ចំណុចបញ្ចប់"</string>
+    <string msgid="7097486360902471446" name="range_start">"ចំណុចចាប់ផ្ដើម"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"ស្វែងរក"</string>
+    <string msgid="6043586758067023" name="selected">"បានជ្រើសរើស"</string>
+    <string msgid="2792228137354697160" name="snackbar_pane_title">"ជូន​ដំណឹង"</string>
+    <string msgid="4139871816613051306" name="state_empty">"ទទេ"</string>
+    <string msgid="5834637030682409883" name="state_off">"បិទ"</string>
+    <string msgid="1490883874751719580" name="state_on">"បើក"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="5190123168583152844" name="summary_collapsed_preference_list">"<ns1:g id="CURRENT_ITEMS">%1$s</ns1:g>, <ns1:g id="ADDED_ITEMS">%2$s</ns1:g>"</string>
+    <string msgid="2561197295334830845" name="switch_role">"ប៊ូតុង​បិទបើក"</string>
+    <string msgid="1672349317127674378" name="tab">"Tab"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> ភាគរយ។"</string>
+    <string msgid="2068359133884605223" name="time_difference_now">"ឥឡូវ"</string>
+    <string msgid="2384500200491672870" name="time_difference_short_days_and_hours">"<ns1:g id="SHORT_DAYS">%1$s</ns1:g> <ns1:g id="SHORT_HOURS">%2$s</ns1:g>"</string>
+    <string msgid="8030280938566792191" name="time_difference_short_hours_and_minutes">"<ns1:g id="SHORT_HOURS">%1$s</ns1:g> <ns1:g id="SHORT_MINUTES">%2$s</ns1:g>"</string>
+    <string msgid="3765533235322692011" name="tooltip_description">"កំណត់​ពន្យល់"</string>
+    <string msgid="3124740595719787496" name="tooltip_label">"បង្ហាញ​កំណត់​ពន្យល់"</string>
+    <string msgid="5138405918326871307" name="v7_preference_off">"បិទ"</string>
+    <string msgid="27351710992731591" name="v7_preference_on">"បើក"</string>
+    <string msgid="8863821639144537553" name="ws_action_drawer_content_description">"ថត​សកម្មភាព"</string>
+    <string msgid="777117228299084604" name="ws_navigation_drawer_content_description">"ថត​រុករក"</string>
+</resources>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIAG Cuidador</string>
+    <string name="pantalla_principal_titulo">SIAG Cuidador</string>
+    <string name="pantalla_principal_subtitulo">Base técnica inicial del módulo cuidador</string>
+    <string name="alerta_caida_titulo">Alerta de caída</string>
+
+    <!-- Login -->
+    <string name="login_title">Iniciar sesión</string>
+    <string name="login_username_hint">Usuario (email)</string>
+    <string name="login_password_hint">Contraseña</string>
+    <string name="login_button">Entrar</string>
+    <string name="login_invalid">Usuario/Clave inválidos</string>
+    <string name="login_user_not_found">Usuario no encontrado</string>
+    <string name="login_incorrect_credentials">Credenciales incorrectas</string>
+
+    <!-- Register -->
+    <string name="register_button">Crear cuenta</string>
+    <string name="register_failed">No se pudo crear la cuenta (ya existe?)</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="register_name_hint">Nombre completo</string>
+    <string name="register_email_hint">Correo electrónico</string>
+    <string name="register_password_hint">Contraseña</string>
+    <string name="register_password_repeat_hint">Repetir contraseña</string>
+    <string name="register_cedula_hint">Número de cédula</string>
+    <string name="register_password_mismatch">Las contraseñas no coinciden</string>
+    <string name="register_button_create">Crear cuenta</string>
+    <string name="register_success">Cuenta creada correctamente</string>
+    <string name="register_email_used">El correo ya está registrado</string>
+
+    <!-- Theme -->
+    <string name="theme_toggle">Alternar tema</string>
+
+    <!-- Medicamento -->
+    <string name="agregar_medicamento">Agregar medicamento</string>
+    <string name="medicamento_nombre_hint">Nombre</string>
+    <string name="medicamento_dosis_hint">Dosis</string>
+    <string name="medicamento_horas_hint">Horas (ej: 08:00, 14:00)</string>
+    <string name="campos_requeridos">Nombre y dosis son requeridos</string>
+    <string name="no_hay_medicamentos">No hay medicamentos registrados</string>
+    <string name="medicamento_hora_referencia">Hora de referencia: %1$s</string>
+    <string name="medicamento_vigencia_siempre">Vigencia: Siempre</string>
+    <string name="medicamento_seleccionar_hora_ref">Seleccionar hora de referencia</string>
+    <string name="medicamento_siempre_avisar">Siempre avisar</string>
+    <string name="medicamento_seleccionar_vigencia_desde">Seleccionar vigencia desde</string>
+    <string name="medicamento_seleccionar_vigencia_hasta">Seleccionar vigencia hasta</string>
+
+    <!-- Dashboard Switch -->
+    <string name="activo">Activo</string>
+    <string name="inactivo">Inactivo</string>
+
+    <!-- Horarios -->
+    <string name="configurar_horarios">Configurar horarios</string>
+    <string name="agregar_hora">Agregar hora</string>
+
+    <!-- Logout -->
+    <string name="logout_button">Cerrar sesión</string>
+
+    <!-- Confirm Delete -->
+    <string name="confirm_delete_title">Confirmar eliminación</string>
+    <string name="confirm_delete_message">¿Eliminar el medicamento %1$s?</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+
+    <!-- Bottom toolbar labels -->
+    <string name="control_medicamentos">Control de medicamentos</string>
+    <string name="alerta_caidas">Alerta de caídas</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Configuración</string>
+    <string name="settings_dark_mode">Modo oscuro</string>
+    <string name="settings_current_email">Correo actual: %1$s</string>
+    <string name="settings_new_email_hint">Nuevo correo</string>
+    <string name="settings_password_hint">Contraseña</string>
+    <string name="settings_change_email">Cambiar correo</string>
+    <string name="settings_fill_fields">Por favor completa todos los campos</string>
+    <string name="settings_email_updated">Correo actualizado</string>
+    <string name="settings_email_update_failed">No se pudo actualizar el correo</string>
+    <string name="settings_current_password_hint">Contraseña actual</string>
+    <string name="settings_new_password_hint">Nueva contraseña</string>
+    <string name="settings_repeat_new_password_hint">Repetir nueva contraseña</string>
+    <string name="settings_change_password">Cambiar contraseña</string>
+    <string name="settings_password_mismatch">Las contraseñas no coinciden</string>
+    <string name="settings_password_updated">Contraseña actualizada</string>
+    <string name="settings_password_update_failed">No se pudo actualizar la contraseña</string>
+
+    <!-- VinculacionActivity -->
+    <string name="vinculacion_title">Vincular Reloj</string>
+    <string name="vinculacion_instructions">Para vincular tu reloj, ingresa el código de 3 dígitos que ves en la pantalla del reloj.</string>
+    <string name="vinculacion_codigo_label">Código del Reloj</string>
+    <string name="vinculacion_code_hint">Ej: 456</string>
+    <string name="vinculacion_info_text">El código expira en 5 minutos.\nAsegúrate de ingresar el código correcto.</string>
+    <string name="vinculacion_button_link">Vincular Reloj</string>
+    <string name="vinculacion_button_mycode">Ver Mi Código (para compartir)</string>
+    <string name="vinculacion_invalid_code">Ingresa un código válido de 3 dígitos</string>
+    <string name="vinculacion_linked_success">Reloj vinculado exitosamente</string>
+    <string name="vinculacion_link_failed">Código inválido o expirado</string>
+    <string name="vinculacion_mycode_title">Tu Código de Vinculación</string>
+    <string name="vinculacion_mycode_message">Comparte este código con el reloj:\n\n%1$s</string>
+    <string name="vinculacion_error_generating">Error generando código</string>
+    <string name="vinculacion_relojes_vinculados">Relojes vinculados</string>
+    <string name="vinculacion_sin_relojes">Sin relojes vinculados aún.</string>
+    <string name="vinculacion_nombre_dispositivo_hint">Nombre del dispositivo (ej: Reloj Abuela)</string>
+    <string name="vinculacion_nombre_dispositivo_label">Nombre del dispositivo</string>
+    <string name="vinculacion_nombre_persona_hint">Nombre de la persona a cuidar</string>
+    <string name="vinculacion_campos_requeridos">Por favor ingresa el código y el nombre del dispositivo</string>
+    <string name="vinculacion_conectando">Conectando…</string>
+    <string name="vinculacion_buscando">Buscando reloj…</string>
+
+    <!-- AlertasActivity - Caídas -->
+    <string name="caida_esperando">Esperando eventos de caída…</string>
+    <string name="caida_btn_ok">Estoy bien</string>
+    <string name="caida_btn_falsa">Falsa alarma</string>
+    <string name="caida_evento_resuelto">Evento resuelto</string>
+    <!-- renamed to avoid collision with library resources -->
+    <string name="app_caida_respuesta_ok">Tu respuesta &quot;Estoy bien&quot; ha sido registrada</string>
+    <string name="app_caida_respuesta_falsa">Tu respuesta &quot;Falsa alarma&quot; ha sido registrada</string>
+    <string name="caida_detectada">¡CAÍDA DETECTADA!</string>
+    <string name="caida_detalles">Dispositivo: %1$s\nSeveridad: %2$s\nHora: %3$s</string>
+    <string name="caida_error">Error: %1$s</string>
+    <string name="caida_registrada">Respuesta registrada</string>
+    <string name="caida_eliminada">Caída eliminada</string>
+    <string name="caida_eliminar_error">No se pudo eliminar la caída</string>
+    <!-- Historial caídas -->
+    <string name="historial_caidas_titulo">Historial de caídas</string>
+    <string name="historial_sin_reloj">Sin reloj vinculado. Ve a Configuración → Vincular Reloj.</string>
+    <string name="historial_sin_caidas">Sin caídas registradas para este reloj.</string>
+    <string name="caida_severidad_grave">GRAVE</string>
+    <string name="caida_severidad_media">MEDIA</string>
+    <string name="caida_severidad_leve">LEVE</string>
+    <string name="caida_respondido_ok">✅ Estoy bien</string>
+    <string name="caida_respondido_falsa">❌ Falsa alarma</string>
+    <string name="caida_sin_respuesta">⏳ Sin respuesta</string>
+
+    <!-- Notificaciones personalizadas -->
+    <string name="notif_caida_titulo">%1$s ha sufrido una caída</string>
+    <string name="notif_caida_body">Dispositivo: %1$s · Severidad: %2$s · Toca para ver detalles</string>
+    <string name="notif_medicamento_titulo">Hora de medicamento para %1$s</string>
+    <string name="notif_medicamento_body">%1$s – %2$s</string>
+
+    <!-- Permisos -->
+    <string name="perm_notif_title">Permiso de notificaciones</string>
+    <string name="perm_notif_message">La aplicación necesita permiso para mostrar notificaciones emergentes. Habilítalo en Ajustes para recibir alertas de caída y llamados SOS.</string>
+    <string name="ir_a_ajustes">Ir a Ajustes</string>
+
+    <!-- Setup Persona -->
+    <string name="setup_titulo">¿A quién vas a cuidar?</string>
+    <string name="setup_subtitulo">Configura el perfil de la persona que vas a monitorear. Esto se puede modificar después desde Configuración.</string>
+    <string name="setup_nombre_label">Nombre de la persona</string>
+    <string name="setup_nombre_hint">Ej: Ana García</string>
+    <string name="setup_nivel_label">Nivel de cuidado</string>
+    <string name="setup_nivel_1_titulo">Supervisión básica</string>
+    <string name="setup_nivel_1_desc">Persona autónoma. Recordatorios de medicamentos y alertas estándar.</string>
+    <string name="setup_nivel_2_titulo">Asistencia moderada</string>
+    <string name="setup_nivel_2_desc">Supervisión activa, alertas de caída habilitadas y notificaciones inmediatas.</string>
+    <string name="setup_nivel_3_titulo">Cuidado intensivo</string>
+    <string name="setup_nivel_3_desc">Monitoreo constante. Alertas críticas y notificación de máxima prioridad.</string>
+    <string name="setup_continuar">Continuar</string>
+    <string name="setup_nombre_requerido">Por favor ingresa el nombre de la persona</string>
+    <string name="setup_nivel_requerido">Por favor selecciona el nivel de cuidado</string>
+    <string name="setup_guardado">Perfil guardado correctamente</string>
+
+    <!-- Settings – Persona Cuidada -->
+    <string name="settings_persona_titulo">Persona cuidada</string>
+    <string name="settings_persona_nombre_label">Nombre</string>
+    <string name="settings_persona_nivel_label">Nivel de cuidado</string>
+    <string name="settings_persona_guardar">Guardar cambios</string>
+    <string name="settings_persona_actualizado">Perfil de persona actualizado</string>
+    <string name="settings_relojes_titulo">Mis relojes</string>
+    <string name="settings_vincular_reloj">Vincular reloj</string>
+</resources>
