@@ -306,8 +306,7 @@ Historial de caída. Registro de eventos y alertas generadas.
 
 1. **Clonar el Repositorio**
 ```bash
-git clone https://github.com/Freddyrex/fall-detection-system
-cd fall-detection-system
+git clone https://github.com/Freddyrex/Gerontoapp_app_deteccion_de_caidas_en_adultos_mayores_-app_movil_y_-wearable-/tree/main
 ```
 
 2. **Configurar Firebase**
